@@ -1,16 +1,14 @@
 {
-  "name": "@pancakeswap/sdk",
+  "name": "@kaco/sdk",
   "license": "MIT",
-  "version": "2.3.2",
-  "description": "🛠 An SDK for building applications on top of Pancakeswap.",
+  "version": "2.3.9",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pancakeswap/pancakeswap-sdk.git",
   "keywords": [
-    "pancakeswap",
+    "kacoswap",
     "bsc"
   ],
   "module": "dist/sdk.esm.js",
